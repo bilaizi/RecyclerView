@@ -30,7 +30,7 @@ Pre-requisites
 --------------
 
 - Android SDK v22
-- Android Build Tools v22.0.1
+- Android Build Tools v24.0.0
 - Android Support Repository
 
 Screenshots
