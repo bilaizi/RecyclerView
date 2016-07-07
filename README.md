@@ -29,7 +29,7 @@ tapped. Use radio buttons to toggle between [LinearLayoutManager][2] and
 Pre-requisites
 --------------
 
-- Android SDK v22
+- Android SDK v24
 - Android Build Tools v24.0.0
 - Android Support Repository
 
